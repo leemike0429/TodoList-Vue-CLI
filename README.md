@@ -1,5 +1,5 @@
 # todo
-giga todo-list-lab (Vue-CLI)
+giga TodoList Lab (Vue-CLI)
 ## Project setup
 ```
 npm install
